@@ -1,0 +1,125 @@
+.main-header {
+    padding: 18px 0px;
+    .d-flex {
+        .subcontainer-header {
+            width: 33.33333%;
+            .main-logo {
+                height: 75px;
+            }
+            .round-icon-container {
+                border: thin solid rgb(107, 107, 107);
+                border-radius: 50%;
+                padding: 10px;
+                
+                img {
+                    height: 25px;
+                }
+            }
+            .email-box {
+                display: flex;
+                flex-direction: column;
+                margin-left: 5px;
+                .email-title {
+                    font-size: 16px;
+                    font-weight: bold;
+                    color: rgb(0, 0, 0);
+                    margin-bottom: 0px;
+                }
+                .email-text {
+                    margin: 0;
+                    font-size: 14px;
+                    color: rgb(107, 107, 107);
+                }
+            }
+        }
+    }
+}
+
+ .image-carousel {
+    height: 87vh;
+ }
+
+ .carousel-description {
+    top: 65vh;
+}
+
+ .card-product-container {
+    width: 280px;
+    margin: 20px auto;
+    .card-product-container__image-container {
+        background-color: #23232308;
+        width: 280px;
+        height: 280px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        img {
+            width: 180px;
+            height: 180;
+        }
+    }
+
+    .card-product-container__description-container {
+        width: 280px;
+        text-align: center;
+        p{ margin: 0; width: 280px;}
+        .title-card-product {
+            font-size: 18px;
+            margin-top: 5px;
+        }
+        .price-card-product {
+            font-weight: 600;
+            font-size: 18;
+            color: #198754;
+        }
+
+    }
+ }
+
+
+ // NAV CAROUSE STYLES
+
+ .promos-container {
+    background-color: #fe8831;
+    // width: 90%;
+    margin-top: -60px;
+    z-index: 10;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto;
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    .promo-item {
+        
+        img {
+            height: 50px;
+            width: 50px;
+        }
+        width: 33.33333%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+
+        .promo-item-title {
+            margin: 0;
+            padding: 0;
+            margin-left: 6px;
+            font-size: 16px;
+            font-weight: bold;
+        }
+        .promo-item-description {
+            margin: 0;
+            padding: 0;
+            margin-left: 6px;
+            font-size: 14px;
+        }
+    }
+}
