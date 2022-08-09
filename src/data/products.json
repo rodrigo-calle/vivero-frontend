@@ -1,0 +1,132 @@
+[
+    {
+        "ornamental": [
+                {
+                    "id": 1,
+                    "name": "Bromelia",
+                    "description": "Es una planta común en zonas altas del Perú",
+                    "image": "https://t2.ev.ltmcdn.com/es/posts/9/0/7/cuidados_de_las_plantas_bromelias_1709_600.jpg",
+                    "price": "20.15",
+                    "stock": true,
+                    "category": "Plantas decorativa"
+                },
+                {
+                    "id": 2,
+                    "name": "Bromelia",
+                    "description": "Es una planta común en zonas altas del Perú",
+                    "image": "https://t2.ev.ltmcdn.com/es/posts/9/0/7/cuidados_de_las_plantas_bromelias_1709_600.jpg",
+                    "price": "20.15",
+                    "stock": true,
+                    "category": "Plantas decorativa"
+                },
+                {
+                    "id": 3,
+                    "name": "Bromelia",
+                    "description": "Es una planta común en zonas altas del Perú",
+                    "image": "https://t2.ev.ltmcdn.com/es/posts/9/0/7/cuidados_de_las_plantas_bromelias_1709_600.jpg",
+                    "price": "20.15",
+                    "stock": true,
+                    "category": "Plantas decorativa"
+                },
+                {
+                    "id": 4,
+                    "name": "Bromelia",
+                    "description": "Es una planta común en zonas altas del Perú",
+                    "image": "https://t2.ev.ltmcdn.com/es/posts/9/0/7/cuidados_de_las_plantas_bromelias_1709_600.jpg",
+                    "price": "20.15",
+                    "stock": true,
+                    "category": "Plantas decorativa"
+                },
+                {
+                    "id": 5,
+                    "name": "Bromelia",
+                    "description": "Es una planta común en zonas altas del Perú",
+                    "image": "https://t2.ev.ltmcdn.com/es/posts/9/0/7/cuidados_de_las_plantas_bromelias_1709_600.jpg",
+                    "price": "20.15",
+                    "stock": true,
+                    "category": "Plantas decorativa"
+                },
+                {
+                    "id": 6,
+                    "name": "Bromelia",
+                    "description": "Es una planta común en zonas altas del Perú",
+                    "image": "https://t2.ev.ltmcdn.com/es/posts/9/0/7/cuidados_de_las_plantas_bromelias_1709_600.jpg",
+                    "price": "20.15",
+                    "stock": true,
+                    "category": "Plantas decorativa"
+                },
+                {
+                    "id": 7,
+                    "name": "Bromelia",
+                    "description": "Es una planta común en zonas altas del Perú",
+                    "image": "https://t2.ev.ltmcdn.com/es/posts/9/0/7/cuidados_de_las_plantas_bromelias_1709_600.jpg",
+                    "price": "20.15",
+                    "stock": true,
+                    "category": "Plantas decorativa"
+                },
+                {
+                    "id": 8,
+                    "name": "Bromelia",
+                    "description": "Es una planta común en zonas altas del Perú",
+                    "image": "https://t2.ev.ltmcdn.com/es/posts/9/0/7/cuidados_de_las_plantas_bromelias_1709_600.jpg",
+                    "price": "20.15",
+                    "stock": true,
+                    "category": "Plantas decorativa"
+                },
+                {
+                    "id": 9,
+                    "name": "Bromelia",
+                    "description": "Es una planta común en zonas altas del Perú",
+                    "image": "https://t2.ev.ltmcdn.com/es/posts/9/0/7/cuidados_de_las_plantas_bromelias_1709_600.jpg",
+                    "price": "20.15",
+                    "stock": true,
+                    "category": "Plantas decorativa"
+                },
+                {
+                    "id": 10,
+                    "name": "Bromelia",
+                    "description": "Es una planta común en zonas altas del Perú",
+                    "image": "https://t2.ev.ltmcdn.com/es/posts/9/0/7/cuidados_de_las_plantas_bromelias_1709_600.jpg",
+                    "price": "20.15",
+                    "stock": true,
+                    "category": "Plantas decorativa"
+                },
+                {
+                    "id": 11,
+                    "name": "Bromelia",
+                    "description": "Es una planta común en zonas altas del Perú",
+                    "image": "https://t2.ev.ltmcdn.com/es/posts/9/0/7/cuidados_de_las_plantas_bromelias_1709_600.jpg",
+                    "price": "20.15",
+                    "stock": true,
+                    "category": "Plantas decorativa"
+                },
+                {
+                    "id": 12,
+                    "name": "Bromelia",
+                    "description": "Es una planta común en zonas altas del Perú",
+                    "image": "https://t2.ev.ltmcdn.com/es/posts/9/0/7/cuidados_de_las_plantas_bromelias_1709_600.jpg",
+                    "price": "20.15",
+                    "stock": true,
+                    "category": "Plantas decorativa"
+                },
+                {
+                    "id": 13,
+                    "name": "Bromelia",
+                    "description": "Es una planta común en zonas altas del Perú",
+                    "image": "https://t2.ev.ltmcdn.com/es/posts/9/0/7/cuidados_de_las_plantas_bromelias_1709_600.jpg",
+                    "price": "20.15",
+                    "stock": true,
+                    "category": "Plantas decorativa"
+                },
+                {
+                    "id": 14,
+                    "name": "Bromelia",
+                    "description": "Es una planta común en zonas altas del Perú",
+                    "image": "https://t2.ev.ltmcdn.com/es/posts/9/0/7/cuidados_de_las_plantas_bromelias_1709_600.jpg",
+                    "price": "20.15",
+                    "stock": true,
+                    "category": "Plantas decorativa"
+                }
+        ]
+    }
+]

@@ -5,7 +5,7 @@ interface Product {
     name: string,
     description: string,
     category_id: number,
-    image?: string
+    image: any
 }
 
 const createProduct = (data: Product) => {

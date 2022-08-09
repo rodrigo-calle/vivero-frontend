@@ -1,6 +1,11 @@
 //import '../styles/globals.css'
 import Head from "next/head";
 import '../styles/main.scss'
+// Home
+import '../styles/FirstSection.scss'
+import '../styles/ProductCard.scss'
+import '../styles/ProductsSection.scss'
+
 import 'bootstrap/dist/css/bootstrap.css'
 import type { AppProps } from 'next/app'
 import { useEffect } from 'react';

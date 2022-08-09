@@ -1,8 +1,10 @@
-import ProductForm from "../../Dashboard/ProductForm/ProductForm";
+// import ProductForm from "../../Dashboard/ProductForm/ProductForm";
 import Carousel from "../../ui/Carousel/Carousel";
 import HomeHeader from "../../ui/HomeHeader/HomeHeader";
 import Navbar from "../../ui/Navbar/Navbar";
+import FirstSection from "../FirstSection/FirstSection";
 import NavCarousel from "../NavCarousel/NavCarousel";
+import ProdcutsSection from "../ProductsSection/ProductsSection";
 
 const HomePage: React.FC = () => {
     return (
@@ -12,7 +14,9 @@ const HomePage: React.FC = () => {
             <Carousel items={[]} />
             <NavCarousel />
             <br/>
-            <ProductForm />
+            <FirstSection />
+            <ProdcutsSection />
+            {/* <ProductForm /> */}
         </>
     )
 }

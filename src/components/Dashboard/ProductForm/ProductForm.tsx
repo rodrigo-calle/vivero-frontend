@@ -6,9 +6,11 @@ const ProductForm: React.FC = () => {
         name: "",
         description: "",
         category_id: 1,
+        image: "",
     })
 
-    const handleChangeProduct = (e: React.ChangeEvent<HTMLInputElement> | React.ChangeEvent<HTMLTextAreaElement>) => {
+    const handleChangeProduct = (e: React.ChangeEvent<HTMLInputElement> | React.ChangeEvent<HTMLTextAreaElement> | any ) => {
+        e.preventDefault();
         setDataProduct({
             ...dataProduct,
             [e.target.name]: e.target.value
@@ -65,7 +67,12 @@ const ProductForm: React.FC = () => {
                 </div>
                 <div className="mb-3">
                     <label htmlFor="formFile" className="form-label">Elegir image</label>
-                    <input className="form-control" type="file" id="formFile" />
+                    <input 
+                        className="form-control" 
+                        type="file"
+                        id="image"
+                        name="image"
+                         />
                 </div>
                 <button type="submit" className="btn btn-primary">Guardar</button>
             </fieldset>
