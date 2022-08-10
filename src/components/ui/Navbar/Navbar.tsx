@@ -5,7 +5,7 @@ const style = {
 
 const Navbar: React.FC=  () => {
     return (
-        <nav className="navbar navbar-expand-lg navbar-light bg-light">
+        <nav className="navbar navbar-expand-lg navbar-light bg-light main-nav">
             <div className="container">
                 <a className="navbar-brand" href="#">Vivero Santo Domingo</a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

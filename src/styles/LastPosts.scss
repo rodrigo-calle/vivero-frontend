@@ -1,0 +1,28 @@
+.lasts-posts-container {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    margin: 100px auto;
+    .lasts-posts-container__subtitle {
+        margin: 0 auto;
+    }
+    .lasts-posts-container__title {
+        margin: 0 auto;
+        margin-bottom: 30px;
+    }
+    .lasts-posts-container__posts-list {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: space-between;
+    }
+    .lasts-posts-container__view-more {
+        width: fit-content;
+        margin: 30px auto;
+        padding: 10px 25px;
+        border: none;
+        color: #fff;
+        background-color: #fe8831;
+    }
+}

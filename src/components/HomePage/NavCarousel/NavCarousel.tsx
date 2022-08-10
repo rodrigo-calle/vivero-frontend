@@ -1,6 +1,6 @@
 const NavCarousel: React.FC = () => {
     return(
-        <div className="promos-container container">
+        <div className="promos-container ">
             <div className="promo-item">
                 <img src="https://icongr.am/fontawesome/drivers-license.svg?size=128&color=ffffff" alt="" />
                 <div className="promo-item--description">

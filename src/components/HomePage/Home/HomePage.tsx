@@ -2,8 +2,11 @@
 import Carousel from "../../ui/Carousel/Carousel";
 import HomeHeader from "../../ui/HomeHeader/HomeHeader";
 import Navbar from "../../ui/Navbar/Navbar";
+import ContactBar from "../ContactBar/ContactBar";
 import FirstSection from "../FirstSection/FirstSection";
+import LastPosts from "../LastPosts/LastPosts";
 import NavCarousel from "../NavCarousel/NavCarousel";
+import OffersSection from "../OffersSection/OffersSection";
 import ProdcutsSection from "../ProductsSection/ProductsSection";
 
 const HomePage: React.FC = () => {
@@ -16,6 +19,9 @@ const HomePage: React.FC = () => {
             <br/>
             <FirstSection />
             <ProdcutsSection />
+            <OffersSection />
+            <LastPosts />
+            <ContactBar />
             {/* <ProductForm /> */}
         </>
     )
