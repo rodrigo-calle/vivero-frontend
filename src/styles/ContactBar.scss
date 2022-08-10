@@ -1,0 +1,28 @@
+.contact-bar-container {
+    width: 70%;
+    height: 150px;
+    background-color: #3cb878;
+    border-radius: 14px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 0 auto;
+    align-items: center;
+    gap: 10px;
+    .contact-bar-container__item {
+        width: 20%;
+        display: flex;
+        align-items: center;
+        
+        img {
+            height: 70%;
+            margin-right: 10px;
+        }
+        p {
+            width: min-content;
+            margin: 0;
+            font-weight: 600;
+            color: #fff;
+        }
+    }
+}
